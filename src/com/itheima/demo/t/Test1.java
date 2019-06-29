@@ -13,4 +13,9 @@ public class Test1 {
         System.out.println("hello,world!!");
     }
 
+    public void test(){
+        System.out.println(111);
+    }
+
+
 }
