@@ -13,7 +13,11 @@ public class Test1 {
         System.out.println("hello,world!!");
     }
 
-    public void test(){
+    public void test() {
+        System.out.println(111);
+    }
+
+    public void test1() {
         System.out.println(111);
     }
 
