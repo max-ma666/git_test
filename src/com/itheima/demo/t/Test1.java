@@ -17,10 +17,6 @@ public class Test1 {
         System.out.println(111);
     }
 
-    public void test1() {
-        System.out.println(111);
-    }
-
 
     public void test1(){
         System.out.println(222);
